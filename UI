@@ -354,7 +354,7 @@ function initLibrary()
             Position = UDim2.new(0, 8, 0, 0),
             FontSize = Enum.FontSize.Size24,
             TextSize = 24,
-            TextColor3 = Color3.fromRGB(255, 255, 255),
+            TextColor3 = Color3.fromRGB(255, 0, 0),
             Text = name,
             Font = Enum.Font.GothamSemibold,
             TextXAlignment = Enum.TextXAlignment.Left,
@@ -619,7 +619,7 @@ function initLibrary()
                         FontSize = Enum.FontSize.Size14,
                         TextSize = 13,
                         Text = text,
-                        TextColor3 = Color3.fromRGB(255, 255, 255),
+                        TextColor3 = Color3.fromRGB(255, 0, 0),
                         Font = Enum.Font.Gotham,
                         TextXAlignment = Enum.TextXAlignment.Left,
                         Parent = sectionContent
