@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Basic base\\x64\\Release\\ret_spoof.h.obj",
+            "outputs": [
+                "C:\\Users\\jeffh\\Downloads\\dvn221\\dvn\\project\\Basic base\\x64\\Release\\vc145.pdb",
+                "Basic base\\x64\\Release\\",
+                "C:\\Users\\jeffh\\Downloads\\dvn221\\dvn\\project\\Basic base\\x64\\Release\\ret_spoof.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "ret_spoof.h",
+                    "source-path": "c:\\users\\jeffh\\downloads\\dvn221\\dvn\\project\\ret_spoof.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
